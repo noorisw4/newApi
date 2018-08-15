@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{E82572A4-FFE0-4527-BA62-E956FD6AE1DE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyNewAPI Status">
+    <Files>
+      <File FileName="MyNewAPI Status" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.MyNewAPI PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
