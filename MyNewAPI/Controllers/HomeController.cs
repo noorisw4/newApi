@@ -11,6 +11,7 @@ namespace MyNewAPI.Controllers
     public class HomeController : Controller
     {
         // GET: /<controller>/
+        // this should be the home webapi and delete the value controller
         public IActionResult Index()
         {
             return View();
